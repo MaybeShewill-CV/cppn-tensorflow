@@ -1,7 +1,7 @@
 # cppn-tensorflow
 Simple tensorflow implemention of "Compositional Pattern Producing Networks: A Novel Abstraction of Development" model"
 
-Thanks for the related project [cppn](https://github.com/hardmaru/cppn-tensorflow)
+Thanks for the related project [hardmaru/cppn](https://github.com/hardmaru/cppn-tensorflow)
 
 ## Install
 
@@ -21,7 +21,6 @@ You can try the model as follows
 
 ```
 python tools/test_model.py
-
 ```
 If you want to chanage some of the parameters you can refer the param 
 details as follows
@@ -40,15 +39,15 @@ those examples
 # gray image
 
 `Test output 1`
-![Test_output_1]()
+![Test_output_1](https://github.com/MaybeShewill-CV/cppn-tensorflow/blob/master/data/gray/generated_11.jpg)
 
 `Test output 2`
-![Test_output_2]()
+![Test_output_2](https://github.com/MaybeShewill-CV/cppn-tensorflow/blob/master/data/gray/generated_16.jpg)
 
 # color image
 
 `Test output 3`
-![Test_output_3]()
+![Test_output_3](https://github.com/MaybeShewill-CV/cppn-tensorflow/blob/master/data/color/generated_15.jpg)
 
 `Test output 4`
-![Test_output_4]()
+![Test_output_4](https://github.com/MaybeShewill-CV/cppn-tensorflow/blob/master/data/color/generated_8.jpg)
