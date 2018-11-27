@@ -39,15 +39,15 @@ those examples
 # gray image
 
 `Test output 1`
-![Test_output_1](https://github.com/MaybeShewill-CV/cppn-tensorflow/blob/master/data/gray/generated_11.jpg)
+![Test_output_1](/data/gray/generated_11.jpg)
 
 `Test output 2`
-![Test_output_2](https://github.com/MaybeShewill-CV/cppn-tensorflow/blob/master/data/gray/generated_16.jpg)
+![Test_output_2](/data/gray/generated_16.jpg)
 
 # color image
 
 `Test output 3`
-![Test_output_3](https://github.com/MaybeShewill-CV/cppn-tensorflow/blob/master/data/color/generated_15.jpg)
+![Test_output_3](/data/color/generated_15.jpg)
 
 `Test output 4`
-![Test_output_4](https://github.com/MaybeShewill-CV/cppn-tensorflow/blob/master/data/color/generated_8.jpg)
+![Test_output_4](/data/color/generated_8.jpg)
